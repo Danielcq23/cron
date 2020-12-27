@@ -35,7 +35,7 @@ document.getElementById("counter2").innerHTML = formatatempo(segundos2);
 }
 
 function inicia2(){
-interval = setInterval("conta2();",10);
+interval = setInterval("conta2();",1000);
 }
 
 function para2(){
