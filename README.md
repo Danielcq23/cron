@@ -1,2 +1,0 @@
-# cronometrovelozes
-Cronômetro
